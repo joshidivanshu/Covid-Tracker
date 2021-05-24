@@ -9,7 +9,9 @@ pip install -r requirements.txt
 ```
 
 ### Running the Project
+
 ```angular2html
+python manage.py migrate
 python manage.py runserver
 ```
 
